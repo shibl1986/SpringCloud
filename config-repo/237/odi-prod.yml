@@ -1,5 +1,5 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/healthcare_odi?useUnicode=true&characterEncoding=UTF8
+    url: jdbc:mysql://192.168.8.237:3306/healthcare_odi?useUnicode=true&characterEncoding=UTF8
 user:
   name: tt
